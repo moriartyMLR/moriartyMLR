@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @moriartyMLR
-- 👀 I’m interested in everything from web dev to software dev
-- 🌱 I’m currently learning Python/I'm in college
+- 👀 I’m interested in software engineering and development
+- 🌱 I’m currently making small projects while in college
 - 📫 How to reach me michaelmoriarty1247@gmail.com
 
-I started gaining an intrest in code around 15, and started learning html/css
-when I got to learning JS, I hated it, stopped learning for a few years then picked up python
-in mid 21'
-I've come pretty far with python but still learning and just started college for computer information systems
+I started gaining an intrest in programming around 15, and started learning html/css
+but when I got to learning JS, I hated it, stopped learning for a few years then picked up python in mid 21'
+I've come pretty far with python but still learning the process of actually developing programs
+I have a strong interest in other languages but I don't want to get ahead of myself for now
 
 <!---
 moriartyMLR/moriartyMLR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
