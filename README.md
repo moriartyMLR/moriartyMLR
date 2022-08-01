@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @moriartyMLR
-- 👀 I’m interested in software engineering and development
+- 👀 My intrests are in software engineering and development
 - 🌱 I’m currently making small projects while in college
 - 📫 How to reach me michaelmoriarty1247@gmail.com
 
