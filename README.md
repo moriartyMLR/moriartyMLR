@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @moriartyMLR
-- 👀 My intrests are in software engineering and development
-- 🌱 I’m currently making small projects while in college
-- 📫 How to reach me michaelmoriarty1247@gmail.com
+- 👀 My intrests are in Physics and all things Computation
+- 🌱 I’m currently making small projects while finishing my B.S. in Physics
+- 📫 How to reach me michaelremp@proton.me
 
 
 <!---
